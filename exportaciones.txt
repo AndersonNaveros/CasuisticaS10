@@ -1,0 +1,7 @@
+Maiz morado,50,100,EE.UU.
+Maiz morado,50,40,Bolivia
+Tarwi,100,3.5,Chile
+Maiz morado,71,22,EE.UU.
+Maiz morado,250,4.5,Alemania
+Quinua,45,7,Bolivia
+Quinua,1500,1.5,Japon
