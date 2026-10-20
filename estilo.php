@@ -1,4 +1,4 @@
-<!-- El trabajo pide Bootstrap para el reporte; los otros estilos los hacemos aqui. -->
+<!-- Usamos bootraps ya que nos lo piden y es conveniento por lo menos para aprender mas pero los otros estilos los hacemos aqui -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 
 <style>
